@@ -5,13 +5,13 @@
   "author": " Tajgram",
   "type": "module",
   "private": true,
-  "homepage": "https://github.com/S-B-Tajgram/upload-with-mtcute",
+  "homepage": "https://github.com/Tajgram/upload-with-mtcute",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/S-B-Tajgram/upload-with-mtcute.git"
+    "url": "git+https://github.com/Tajgram/upload-with-mtcute.git"
   },
   "bugs": {
-    "url": "https://github.com/S-B-Tajgram/upload-with-mtcute/issues"
+    "url": "https://github.com/Tajgram/upload-with-mtcute/issues"
   },
   "keywords": [
     "actions"
